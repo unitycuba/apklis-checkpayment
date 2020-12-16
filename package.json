@@ -1,7 +1,7 @@
 {
-    "name": "cu.unitycuba.apklispaymentcheck",
+    "name": "cu.unitycuba.apklischeckpayment",
     "version": "0.0.1",
-    "displayName": "Apklis Payment Check",
+    "displayName": "Apklis Check Payment ",
     "description": "A package for check the status of a payment in https://apklis.cu",
     "unity": "2018.4",
     "unityRelease": "0b5",
